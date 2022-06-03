@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hourie
+- 👋 Hi, I’m hoorie
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning R and Python and SQL
 - 💞️ I’m looking to collaborate on coding
